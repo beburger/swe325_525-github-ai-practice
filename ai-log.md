@@ -10,6 +10,9 @@ Prompt: Explain the difference between a repository, branch, commit, pull reques
 
 Response: A repository is the whole project and its full history, made up of commits, which are individual snapshots of changes with a message and unique ID. A branch is a separate line of commits that lets you work on a feature or fix without affecting the main code. A pull request asks to merge one branch into another so teammates can review the changes, while an issue is a tracked bug, task, or request that describes work to be done and is often closed by a pull request.
 
+Decision: Accepted 
+
+Reason: This description matches up with my understanding of repos, branches, commits, PRs, and issues.
 
 
 ## AI interaction 2
@@ -133,3 +136,18 @@ Reason: The revised README.md contains a more in depth summary of the repository
 Related GitHub URLs: 
 https://github.com/beburger/swe325\_525-github-ai-practice/commit/2ef49020ee0995385788211c76df03e513a3aebf
 https://github.com/beburger/swe325\_525-github-ai-practice/commit/d5c589b13fa34b8925594ecedce09dec69a4197a
+
+Question 1: 
+The GitHub Pull Request was the most useful to me. This was because it allowed me to reference a specific issue that the commits within the PR were working towards and allowed for a compact description of all of the changes in one merge. It was also useful knowing that using this in a real project will allow for someone to review my code with less risk of causing bugs in the main branch.
+
+Question 2:
+I accepted the AI suggestion to revise my README.md. The AI response was accurate in its descriptions of the new files within the repo, and this made the revision useful without any needs for change. It also phrased my description of the project in a more easily readable format.
+
+Question 3:
+I revised the AI suggestion for the checklist for me to go through when creating the pull request. This was because it wanted me to include screenshots within the pull request of each file, which I felt was unnecessary for text files. I did end up using pointers to the AI log file, which the AI suggested.
+
+Question 4:
+For the markdown formatting that the AI created, I had to check the file on GitHub to see if it was applied correctly. For some reason, the pasted text had spaces between the table lines, which actually caused the table to not work initially. I had to create a new commit to fix that issue. 
+
+Question 5:
+I have never used issues before. I would really like to utilize issues in my next GitHub workflow, as they are very nice for organizing feature requests and bug fixes as well as making clear what each group of commits are doing.
