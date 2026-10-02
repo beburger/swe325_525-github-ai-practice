@@ -78,7 +78,7 @@ Decision: Revised
 
 Reason: Remove references to pointers and screenshots.
 
-GitHub link: See PR for feature/github-ai-workflow to main.
+GitHub link: https://github.com/beburger/swe325_525-github-ai-practice/pull/2
 
 
 
